@@ -1,0 +1,28 @@
+name: cindymariesilva
+favicon: null
+layout_spectrum: 0.3239456503652036
+typography_spectrum: 0.5380652151070535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9770177616737783
+  lightness: 0.9624713158700615
+  saturation: 0.3657249538227916
+  rhythmicContrast: 0.11846700543537736
+purpose: []
